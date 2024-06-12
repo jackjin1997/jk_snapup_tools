@@ -1,7 +1,7 @@
 # jack-grab-order
 
 ## 依赖
-#### 安装chrome浏览器，根据浏览器的版本找到对应的[chromedriver](http://npm.taobao.org/mirrors/chromedriver/)下载安装
+#### 安装chrome浏览器，根据浏览器的版本找到对应的[chromedriver](https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json)下载安装
 
 ## web版使用说明
 1、抢购前需要校准本地时间，然后把需要抢购的商品加入购物车  
